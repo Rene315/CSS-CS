@@ -1,0 +1,33 @@
+body{
+    background-color: WhiteSmoke;
+    text-align: center;
+    font-family: Courier, serif;
+  }
+  h2{
+    color: DarkGreen;
+  }
+  table{
+    border: 2px solid Black;
+    border-radius: 5%;
+    padding: 5px;
+    max-width: 800px;
+    margin: auto;
+  }
+  .color{
+    background-color: LightCyan;
+    font-family: Consolas, sans-serif;
+  }
+  .center{
+    display: flex;
+    justify-content: center;
+  }
+  th{
+    background-color: MediumTurquoise;
+  }
+  td, th{
+    text-align: left;
+    border-right: 2px solid MediumTurquoise;
+    border-bottom: 2px solid MediumTurquoise;
+    
+  }
+  
